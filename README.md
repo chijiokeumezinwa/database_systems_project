@@ -1,0 +1,2 @@
+# database_systems_project
+This project aimed to provide a realistic experience in the conceptual design, logical design, implementation, operation, and maintenance of a relational database and associated applications for an enterprise. In this project, I focused on making a database as well as a interface for customers and other authorized users to peruse said database for a fictional car company.
